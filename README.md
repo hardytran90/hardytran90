@@ -76,27 +76,15 @@ A full-stack web application that enables users to build InfluxDB queries throug
 
 ### Backend
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb)
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
@@ -104,50 +92,9 @@ A full-stack web application that enables users to build InfluxDB queries throug
 
 ```text
 
-☁️ AWS Cloud | Azure
-
-🐳 Docker
-
-☸️ Kubernetes
-
-🏗️ System Design
-
-🔄 CI/CD
-
-🕸️ Design Patterns
-
-🧪 Software Testing
+☁️ AWS Cloud | Azure | 🐳 Docker | ☸️ Kubernetes | 🏗️ System Design | 🔄 CI/CD | 🕸️ Design Patterns | 🧪 Software Testing
 
 ```
-
----
-
-## 🧩 Algorithm Practice
-
-I regularly solve programming challenges to strengthen my problem-solving skills.
-
-**Topics**
-
-- Arrays
-
-- Strings
-
-- Linked Lists
-
-- Binary Trees
-
-- Binary Search
-
-- Hash Tables
-
-- Stack & Queue
-
-- Graphs
-
-- Dynamic Programming
-
-- Greedy Algorithms
-
 ---
 
 ## 📈 GitHub Stats
@@ -160,7 +107,7 @@ I regularly solve programming challenges to strengthen my problem-solving skills
 
 ---
 
-## 🏆 Goals for 2026
+## 🔖 Goals for 2026
 
 - Secure a fulltime role
 
