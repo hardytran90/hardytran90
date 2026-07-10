@@ -20,40 +20,6 @@ I enjoy transforming complex problems into practical software and continuously i
 
 ---
 
-## ✪ Featured Project ✪
-
-### ☆ No-Code InfluxDB Dashboard
-
-A full-stack web application that enables users to build InfluxDB queries through a visual drag-and-drop interface without writing Flux queries.
-
-### ➤ Key Features
-
-    ★ Authentication & Authorization
-
-    ★ Drag-and-Drop Query Builder
-
-    ★ Interactive Dashboard
-
-    ★ Grafana Integration
-
-    ★ CSV Import & Export
-
-    ★ RESTful API
-
-    ★ Custom Hierarchy Management
-
-### ➤ Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| Frontend | React, JavaScript, HTML5, CSS3 |
-| Backend | Laravel, PHP, REST API |
-| Database | MySQL, InfluxDB |
-| Visualization | Grafana time-series |
-| Tools | Git, Docker, Postman |
-
----
-
 ## ✪ Tech Stack Currently Using ✪
 
 ### ➤ Languages
