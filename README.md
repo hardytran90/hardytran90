@@ -8,121 +8,92 @@ I enjoy transforming complex problems into practical software and continuously i
 
 ---
 
-## 🚀 About Me
+## ✪ About Me ✪ 
 
-- 🎓 Master of Computing & Innovation
-
-- 💻 Full Stack Web Developer
-
-- 🌱 Currently learning **AWS, Azure, Docker, Kubernetes, System Design & CI/CD**
-
-- 📊 Interested in Cloud Computing, Data Visualization and Time-Series Databases
-
-- 🧩 Regular LeetCode problem solver
-
-- 📖 Always learning new technologies and best practices
+    ▶︎ Made in Vietnam 🇻🇳
+    ▶︎ Full Stack Web Developer
+    ▶︎ Master of Computer Science
+    ▶︎ Interested in Web Development, Data Visualization and Real-world Applications
+    ▶︎ Passionate about building projects in sports and productivity
+    ▶︎ Regular LeetCode problem solver
+    ▶︎ Believe that learning is a lifelong journey 
 
 ---
 
-## 💼 Featured Project
+## ✪ Featured Project ✪
 
-### 🚀 No-Code InfluxDB Dashboard
+### ☆ No-Code InfluxDB Dashboard
 
 A full-stack web application that enables users to build InfluxDB queries through a visual drag-and-drop interface without writing Flux queries.
 
-### Key Features
+### ➤ Key Features
 
-- 🔐 Authentication & Authorization
+    ★ Authentication & Authorization
 
-- 🎨 Drag-and-Drop Query Builder
+    ★ Drag-and-Drop Query Builder
 
-- 📊 Interactive Dashboard
+    ★ Interactive Dashboard
 
-- 📈 Grafana Integration
+    ★ Grafana Integration
 
-- 📁 CSV Import & Export
+    ★ CSV Import & Export
 
-- ⚡ RESTful API
+    ★ RESTful API
 
-- 🗂 Custom Hierarchy Management
+    ★ Custom Hierarchy Management
 
-### Tech Stack
+### ➤ Tech Stack
 
 | Category | Technologies |
-
 |----------|--------------|
-
 | Frontend | React, JavaScript, HTML5, CSS3 |
-
 | Backend | Laravel, PHP, REST API |
-
 | Database | MySQL, InfluxDB |
-
-| Visualization | Grafana |
-
-| Tools | Git, Docker, Postman, VS Code |
+| Visualization | Grafana time-series |
+| Tools | Git, Docker, Postman |
 
 ---
 
-## 💻 Tech Stack
+## ✪ Tech Stack Currently Using ✪
 
-### Languages
+### ➤ Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
+### ➤ Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Backend
+### ➤ Backend
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=swagger&logoColor=white)
 
-### Databases
+### ➤ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### DevOps & Tools
+### ➤ Cloud
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
+### ➤ DevOps & Tools
 
-## 📚 Currently Learning
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-```text
+### ➤ AI Tools
 
-☁️ AWS Cloud | Azure | 🐳 Docker | ☸️ Kubernetes | 🏗️ System Design | 🔄 CI/CD | 🕸️ Design Patterns | 🧪 Software Testing
-
-```
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardytran90&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardytran90&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hardytran90&theme=github-dark)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
-## 🔖 Goals for 2026
+## ✪ Currently Learning ✪
 
-- Secure a fulltime role
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-- Master React & JavaScript
-
-- Learn AWS Cloud and Azure Architecture
-
-- Improve System Design knowledge
-
-- Solve 300+ LeetCode problems
+![System Design](https://img.shields.io/badge/System_Design-1572B6?style=for-the-badge&logo=databricks&logoColor=white) ![Design Patterns](https://img.shields.io/badge/Design_Patterns-7B42BC?style=for-the-badge&logo=blueprint&logoColor=white) ![Software Testing](https://img.shields.io/badge/Software_Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
 ---
 
-## 🤝 Let's Connect
+## ✪ Let's Connect ✪
 
-- 💼 LinkedIn: https://www.linkedin.com/in/hardy-tran/
-
-- 📧 Email: vinhhung90@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardy-tran/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinhhung90@gmail.com)
